@@ -1,4 +1,5 @@
-<b style="font-size: 18px;">1. What is ReactJS?</b><br />
+<p  style="x-large"><b>1. What is ReactJS?</b><br /></p>
+
 <p align="center">
 <img src="image.png" alt="logo" width="100" height="100" style="display: flex">
 </p>
